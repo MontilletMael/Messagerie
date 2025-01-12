@@ -1,0 +1,43 @@
+  body {
+    margin-top: 15%;
+    font-family: monospace;
+  }
+  
+  .conteneur {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .affichage {
+    min-width: 400px;
+    width: 50%;    
+    height: 200px;
+    margin: 10px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: scroll;
+  }
+  
+  button, h1 {
+    margin: 10px auto;
+  }
+  
+  .texte {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 2px;
+  }
+  
+  .droite {
+    border: 1px solid #00FF00;
+    background-color: #AAFFAA;
+    margin-left: 100px;
+  }
+  
+  .gauche {
+    border: 1px solid #0000FF;
+    background-color: #AAAAFF;
+    margin-right: 100px;
+  }
+  
