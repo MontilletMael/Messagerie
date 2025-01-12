@@ -8,7 +8,7 @@ Une application simple de messagerie permettant d'ajouter des messages et de les
 ### Instructions d'installation
 Téléchargez ou clonez ce projet via GitHub :
 ```bash
-git clone <URL_DU_DEPOT>
+git clone https://github.com/MontilletMael/Messagerie.git
 ```
 Ouvrez le fichier index.html dans un navigateur web.
 
